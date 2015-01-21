@@ -1,2 +1,2 @@
 # gitCSI
-Git Tutorial
+Git Tutorial pour tester des commandes
